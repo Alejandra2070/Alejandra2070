@@ -3,7 +3,6 @@
 ![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ddfcc9c-456f-4612-867c-d94ba6201fca)
 
 <h3> ~ Tengo 18 años.</h3> 
-<h3> ~ Estoy aprendiendo sobre el idioma de inglés.</h3>
 <h3> ~ Soy una apasionada desarrolladora Full Stack. 💟</h3>
 <h3> ~ 📫 Puedes contáctarme a mi correo: am3793825@gmail.com</h3>
 
